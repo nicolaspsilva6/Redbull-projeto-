@@ -22,7 +22,6 @@ Receita: Cresceu de 4.25 bilhões de euros em 2011 para 11.23 bilhões de euros 
 
 Lucro Estimado: Calculado como o produto da receita e o número de latas vendidas.
 
-Margem de Lucro: Calculada como (lucro / receita) * 100.
 
 🛠️ Tecnologias Utilizadas
 Python
